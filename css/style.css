@@ -1,0 +1,28 @@
+.slider {
+    display: inline-block;
+    position: relative;
+}
+
+#left-button {
+    z-index: 9;
+    left: 5px;
+    margin-top: 30%;
+    max-width: 25px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+#right-button {
+    z-index: 9;
+    right: 5px;
+    margin-top: 30%;
+    max-width: 25px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+.image {
+    width: 800px;
+    height: 500px;
+}
